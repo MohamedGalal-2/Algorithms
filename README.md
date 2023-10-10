@@ -12,11 +12,9 @@ This repository contains implementations of various algorithms in the C programm
 - [License](#License)
 
 ### What does Algorithm mean
-<pre>
 An algorithm is a sequence of instructions that a computer must perform to solve a well-defined problem. It essentially defines what the computer needs to do and how to do it. Algorithms can instruct a computer how to perform a calculation, process data, or make a decision.
 
 The best way to understand an algorithm is to think of it as a recipe that guides you through a series of well-defined actions to achieve a specific goal. Just like a recipe produces a replicable result, algorithms ensure consistent and reliable outcomes for a wide range of tasks in the digital realm.
-</pre>
 
 ### Prerequisites
 Before running any of the implementations, make sure you have the required environment set up for the specific programming language. Each implementation folder contains its own set of instructions on how to run or compile the code.
