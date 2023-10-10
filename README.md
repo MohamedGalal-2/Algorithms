@@ -1,4 +1,3 @@
-﻿# Algorithms
 # Algorithms
 This repository contains implementations of various algorithms in the C programming language.
 
