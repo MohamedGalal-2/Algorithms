@@ -4,14 +4,14 @@ This repository contains implementations of various algorithms in the C programm
 ![Header](https://artofcse.com/storage/photos/1/course/code/algorithms.jpg)
 
 ## Table of Contents
-- [What does Algorithm mean](#What-does-Algorithm-mean)
+- [What is an algorithm](#What-is-an-algorithm)
 - [Prerequisites](#Prerequisites)
 - [Contents](#Contents)
 - [Getting Started](#Getting-Started)
 - [Contributing](#Contributing)
 - [License](#License)
 
-### What does Algorithm mean
+### What is an algorithm
 An algorithm is a sequence of instructions that a computer must perform to solve a well-defined problem. It essentially defines what the computer needs to do and how to do it. Algorithms can instruct a computer how to perform a calculation, process data, or make a decision.
 
 The best way to understand an algorithm is to think of it as a recipe that guides you through a series of well-defined actions to achieve a specific goal. Just like a recipe produces a replicable result, algorithms ensure consistent and reliable outcomes for a wide range of tasks in the digital realm.
