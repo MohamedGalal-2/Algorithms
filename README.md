@@ -14,7 +14,7 @@ This repository contains implementations of various algorithms in the C programm
 Before running any of the implementations, make sure you have the required environment set up for the specific programming language. Each implementation folder contains its own set of instructions on how to run or compile the code.
 
 ### Contents
-1. Binary_Search: Implementation of the binary search algorithm.
+1. [Binary Search](https://github.com/MohamedGalal-2/Algorithms/tree/main/Binary_Search): Implementation of the binary search algorithm.
 2. Bubble_Sort: Implementation of the bubble sort algorithm.
 3. Insertion_Sort: Implementation of the insertion sort algorithm.
 4. Linear_Search: Implementation of the linear search algorithm.
