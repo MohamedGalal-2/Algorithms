@@ -9,7 +9,8 @@ static void swapTwoNumbers(int* numberOne, int* numberTwo)
 
 void bubbleSort(int* array, int arraySize)
 {
-	unsigned char isSorted = 0;
+	unsigned char isSorted = 0; // flag to check if the array is sorted
+
 	for (int i = 0; i < (arraySize - 1); i++)
 	{
 		for (int j = 0; j < (arraySize - i - 1); j++)
@@ -22,9 +23,8 @@ void bubbleSort(int* array, int arraySize)
 				swapTwoNumbers(*(&leftElement), *(&rightElement)); // swap the two elements
 				isSorted = 1;
 			}
-			printArray(array, arraySize);
 		}
-		if (0 == isSorted)
+		if (0 == isSorted) // if the array is sorted, then break the loop
 		{
 			return;
 		}
