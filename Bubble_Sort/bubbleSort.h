@@ -6,7 +6,6 @@
 #include <stdlib.h>
 
 /* Function Prototype Section */
-
-
+void bubbleSort(int* array, int size);
 
 #endif // _BUBBLESORT_H_
