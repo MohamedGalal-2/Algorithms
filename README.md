@@ -15,9 +15,9 @@ Before running any of the implementations, make sure you have the required envir
 
 ### Contents
 1. [Binary Search](https://github.com/MohamedGalal-2/Algorithms/tree/main/Binary_Search): Implementation of the binary search algorithm.
-2. Bubble_Sort: Implementation of the bubble sort algorithm.
-3. Insertion_Sort: Implementation of the insertion sort algorithm.
-4. Linear_Search: Implementation of the linear search algorithm.
+2. [Bubble Sort](https://github.com/MohamedGalal-2/Algorithms/tree/main/Bubble_Sort): Implementation of the bubble sort algorithm.
+3. [Insertion Sort](https://github.com/MohamedGalal-2/Algorithms/tree/main/Insertion_Sort): Implementation of the insertion sort algorithm.
+4. [Linear Search](https://github.com/MohamedGalal-2/Algorithms/tree/main/Linear_Search): Implementation of the linear search algorithm.
    
 ### Usage
 Each algorithm has its own folder containing the implementation code. You can navigate to the respective folder to view the code and understand how the algorithm works.
