@@ -2,7 +2,7 @@
 # Algorithms
 This repository contains implementations of various algorithms in the C programming language.
 
-![Header](https://th.bing.com/th/id/OIP.ODf4X51nKEMElimXA706gQHaEs?pid=ImgDet&rs=1)
+![Header](https://artofcse.com/storage/photos/1/course/code/algorithms.jpg)
 
 ## Contents
 Binary_Search: Implementation of the binary search algorithm.
