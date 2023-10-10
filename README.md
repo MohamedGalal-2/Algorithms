@@ -22,7 +22,7 @@ Before running any of the implementations, make sure you have the required envir
 ### Getting Started
 To get started with this repository, follow these steps:
 
-1. Install C runtime environment installed on your system such as GCC (GNU Compiler Collection) or Microsoft Visual C++, or any other C development environment based on your operating system.
+1. Install C runtime environment on your system such as GCC (GNU Compiler Collection) or Microsoft Visual C++, or any other C development environment based on your operating system.
 
 2. Clone the repository using the following command:
 
