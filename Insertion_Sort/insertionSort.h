@@ -6,6 +6,6 @@
 #include <stdlib.h>
 
 /* Function Prototype Section */
-
+void insertionSort(int* array, int arraySize);
 
 #endif // _INSERTIONSORT_H_
