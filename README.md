@@ -44,4 +44,4 @@ To get started with this repository, follow these steps:
 Contributions to this repository are always welcome. If you would like to add a new solution or improve an existing one, feel free to submit a pull request. Please ensure that the code adheres to the repository's coding standards.
 
 ### License
-This repository is to train myself on implementing some of the Algorithms using C. Feel free to use and modify the code as per your requirements.
+This repository is licensed under the MIT License. Please see the LICENSE file for more information.
